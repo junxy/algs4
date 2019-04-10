@@ -1,4 +1,4 @@
-package ep1;
+package ep1.p1_1_1;
 
 import edu.princeton.cs.algs4.StdIn;
 

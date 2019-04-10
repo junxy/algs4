@@ -1,4 +1,4 @@
-package ep1;
+package ep1.p1_1_1;
 
 public class p1_1_1_1 {
     public static void main(String[] args) {
