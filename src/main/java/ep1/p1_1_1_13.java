@@ -4,6 +4,7 @@ public class p1_1_1_13 {
     public static void main(String[] args) {
 
         int m = 3, n = 5;
+        assert m > 0 : "m must greater then zero";
         int count = 1;
         int[][] arr2d = new int[m][n];
         for (int i = 0; i < arr2d.length; i++) {
